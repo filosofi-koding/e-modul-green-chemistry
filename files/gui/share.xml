@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<asul>
+<style><![CDATA[
+
+]]>
+</style>
+
+
+<!-- Container for displaying search results. Will be shown after a search was triggered. -->
+<window anchors="70, 50" id="container" width="200" height="75">
+	<!-- Drag handle... -->
+	<box name="$drag_handle$" anchors="0,20,pw-12,ph-12" background="image(files/assets/skin/window/winbg2.png)" scale9grid="14,14,15,15" mouseenabled="true">
+		<hflow anchors="8,10,pw,ph" space="5">
+			<button width="24" height="24" name="btnFacebook" background="image(files/assets/skin/share/facebook.jpg)"/>
+			<button width="24" height="24" name="btnTwitter" background="image(files/assets/skin/share/twitter.png)"/>
+			<button width="24" height="24" name="btnLinkedin" background="image(files/assets/skin/share/linkedin.png)"/>
+			<button width="24" height="24" name="btnDigg" background="image(files/assets/skin/share/digg.jpg)"/>
+			<button width="24" height="24" name="btnMixx" background="image(files/assets/skin/share/mixx.png)"/>
+			<button width="24" height="24" name="btnMore" background="image(files/assets/skin/share/more.png)"/>
+		</hflow>
+	</box>
+	<button name="$btn_close$" anchors="pw-w,h/2" title="localize(LNG_SEARCH_RESULTS_CLOSE, Close)" width="24" height="24" background="image(files/assets/skin/close2.png)"/>
+</window>
+</asul>

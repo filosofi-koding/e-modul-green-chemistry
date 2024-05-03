@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE asul SYSTEM "http://www.megazine3.de/asul.dtd">
+<asul>
+	<style>
+	<![CDATA[
+
+	}
+	]]>
+	</style>
+	
+	<window id="container" anchors="70, 50" width="150" height="350">
+		<box name="$drag_handle$" anchors="1,20,pw-12,ph-12" background="image(files/assets/skin/window/winbg2.png)" scale9grid="14,14,15,15" mouseenabled="true">
+			<!-- change this anchors if using other layout -->
+			<box name="contents" anchors="10,10,pw-9,ph-13" background="color(0x7F333333)"> 
+				<button name="btn_up" anchors="0,0,pw" height="26" style="btn_up" background="color(0xB2BCC4DE)"/>
+				<scrollpane name="scrollpane" anchors="0,26,pw,ph-26" mousewheel="y" align="top">
+					<box maxwidth="pw" name="$viewport$" resize="true">
+						<hflow maxwidth="pmaxw" name="elements"/>
+					</box>
+				</scrollpane>
+				<button name="btn_down" anchors="0,ph-26,pw" height="26" style="btn_down" background="color(0xB2BCC4DE)"/>
+			</box>
+		</box>
+		<button name="$btn_close$" anchors="pw-w,h/2" title="localize(LNG_SEARCH_RESULTS_CLOSE, Close)" width="24" height="24" background="image(files/assets/skin/close2.png)"/>
+	</window>	
+	
+	<button width="120" height="150" id="content">
+		<box name="$up$" anchors="10,10,pw-10,ph-10" background="color(0x5AB8BFDB)"/>	
+		<box name="$down$" anchors="10,10,pw-10,ph-10" background="color(0x5AB8BFDB)"/>
+		<box name="$over$" anchors="5,5,pw-5,ph-5" background="color(0x5AB8BFDB)"/>
+	
+		<box anchors="0,5,pw-5,ph-5" name="if_even" style="pagelink"/>
+		<box anchors="5,5,pw,ph-5" name="if_odd" style="pagelink"/>
+		<box anchors="10,10,pw-10,ph-10" name="thumb"/>
+		<box anchors="10,10,pw-10,ph-10" background="color(0x666666)" blendmode="hardlight">
+			<box anchors="0,ph-20,pw,ph" background="color(0x40ffffff)">
+				<text anchors="0,0,pw" name="text" align="center" style="content"/>
+			</box>
+		</box>
+
+	</button>
+
+</asul>

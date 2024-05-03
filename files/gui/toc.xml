@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<asul>
+    <style>
+    <![CDATA[
+			.main{filter:dropshadow(2,45,0x000000,1,3,3,0.5,2)}
+			.box{background:gradient(linear-vertical,0x888888,0xFFFFFF)}
+			
+    ]]>
+    </style>
+ 
+	<window id="container" anchors="70, 50" width="245" height="300">	
+		<!-- Drag handle... -->
+		<box name="$drag_handle$" anchors="1,20,pw-12,ph-12" background="image(files/assets/skin/window/winbg2.png)" scale9grid="14,14,15,15" mouseenabled="true">
+			<box name="contents" anchors="0,0,pw,ph"> 
+				<box anchors="0, 0, pw, ph" name="body"/>
+			</box>
+		</box>
+		<button name="$btn_close$" anchors="pw-w,h/2" title="localize(LNG_SEARCH_RESULTS_CLOSE, Close)" width="24" height="24" background="image(files/assets/skin/close2.png)"/>
+	</window>	 
+</asul>

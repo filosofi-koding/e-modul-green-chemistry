@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE asul SYSTEM "http://www.megazine3.de/asul.dtd">
+<asul>
+
+	<style>
+	<![CDATA[
+	/* Graphic for the buttons */
+	button.close > box { background: image(files/gui/search/btn_close.png); }
+	button.search > box { background: image(files/assets/skin/search.png); width:24; height:25}
+	/* Graphic for the scroll handle (for scrolling through results) */
+	scrollbar > button > box { background: image(files/assets/skin/btnscroll_up.png); width: 15; height: 15; }
+	scrollbar > button > box.over { background: image(files/assets/skin/btnscroll_hot.png); width: 15; height: 15; }
+	scrollbar > button > box.down { background: image(files/assets/skin/btnscroll_hot.png); width: 15; height: 15; }
+	
+	button.btn_search > box {background: image(files/assets/skin/btnsearch_up.png); width:24; height:25;}
+	button.btn_search > box.down { background: image(files/assets/skin/btnsearch_down.png); width:24; height:25;}
+	button.btn_search > box.over { background: image(files/assets/skin/btnsearch_hot.png); width:24; height:25;}
+		
+	button.btn_close > box {background: image(files/assets/skin/close.png); width:16; height:16;}
+	button.btn_close > box.down { background: image(files/assets/skin/close_hot.png); width:16; height:16;}
+	button.btn_close > box.over { background: image(files/assets/skin/close_hot.png); width:16; height:16;}	
+	
+	]]>
+	</style>
+	
+	<script><![CDATA[
+	import flash.display.StageDisplayState;
+	import flash.events.FullScreenEvent;
+	
+	// Search input box added, remember it.
+	var searchbox;
+	function searchadded(box) {
+		searchbox = box;
+		addListener(searchbox.stage, FullScreenEvent.FULL_SCREEN, fullscreenchanged);
+	}
+	// Fullscreen state changed, update visibility of search field.
+	function fullscreenchanged() {
+		if (searchbox) searchbox.visible = searchbox.stage.displayState != StageDisplayState.FULL_SCREEN;
+	}
+	]]></script>
+	
+
+	<!-- Container for displaying search results. Will be shown after a search was triggered. -->
+	<window anchors="70, 50" id="container" width="200" height="55">
+		<box name="$drag_handle$" visible="true" anchors="0,12,pw-12,ph" background="image(files/assets/skin/window/winbg2.png)" scale9grid="14,14,15,15" mouseenabled="true">
+			<box anchors="10,10,pw-35" height="20" style="input">
+				<text anchors="0,0,pw,ph" name="txt_search" value="localize(LNG_SEARCH_TITLE, Search)"/>
+			</box>
+			<button name="btn_search" anchors="pw-w-10,10" width="24" title="localize(LNG_SEARCH_START, Start search)" style="btn_search"/>
+			
+			<!-- Scrollpane to allow scrolling through multiple results -->
+			<scrollpane anchors="10,45,pw-10,ph-10" mousewheel="y" scrolly="0">
+				<box name="$viewport$" resize="true">
+					<!-- Results will be added in this container (using instances of the "search_match" template), using a layout to automatically position results -->
+					<vflow name="results"/>
+				</box>
+				<scrollbar name="$scroll_y$" orientation="vertical" anchors="pw-15,0,pw,ph" background="gradient(linear-vertical,0x666666,0x4d4d4d)">
+					<button name="$scroll_handle$" width="15" height="15"/>
+				</scrollbar>
+			</scrollpane>
+		</box>
+		<button name="$btn_close$" anchors="pw-w,0" title="localize(LNG_SEARCH_RESULTS_CLOSE, Close)" width="24" height="24" background="image(files/assets/skin/close2.png)"/>
+	</window>
+	
+	<button width="270" height="90" id="content" buttonmode="false">
+		<box name="$up$" anchors="5, 0, pw-23, ph-8" background="color(0xB8BFDB)"/>	
+	  <box name="$over$" anchors="5, 0, pw-23, ph-8" background="color(0x8D95AD)"/>
+	  <box name="$down$" anchors="5, 0, pw-23, ph-8" background="color(0x8D95AD)"/>	
+		<box anchors="5, 0, pw-23, ph-8" buttonmode="true" mouseenabled="true">
+			<box  anchors="5, 0" width="70" height="70" name="thumb"/>
+			<text anchors="70,1,pw-10" name="information" style="info title" color="0"/>
+			<text anchors="70,20,pw-10,ph" multiline="true" name="excerpt" style="info" wordwrap="true" color="0"/>
+		</box>
+	</button>
+</asul>

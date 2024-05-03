@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE asul SYSTEM "http://www.megazine3.de/asul.dtd">
+<asul>
+	
+	<style>
+	<![CDATA[
+	/* Button graphics... */
+	togglebutton.fullscreen > button > box { background: image(files/assets/buttons/fullscreen.png); width:30; height:32;}
+	togglebutton.fullscreen > button.toggled > box { background: image(files/assets/buttons/exitfullscreen.png);  width:30; height:32;}
+	togglebutton.mute > button > box { background: image(files/assets/buttons/music.png);  width:30; height:32;}
+	togglebutton.mute > button.toggled > box { background: image(files/assets/buttons/mute.png);  width:30; height:32;}
+	button.zoom_in > box { background: image(files/assets/buttons/zoomin.png); width:30; height:32;}
+	button.zoom_out > box { background: image(files/assets/buttons/zoomout.png); width:30; height:32; }
+	button.first > box { background: image(files/assets/buttons/firstpage.png); width:30; height:32; }
+	button.last > box { background: image(files/assets/buttons/lastpage.png); width:30; height:32; }
+	button.prev > box { background: image(files/assets/buttons/previous.png); width:30; height:32; }
+	button.next > box { background: image(files/assets/buttons/next.png); width:30; height:32; }
+	button.thumbnail > box { background: image(files/assets/buttons/thumbnails.png); width:30; height:32; }
+	button.bookmarks > box { background: image(files/assets/buttons/bookmarks.png); width:30; height:32;}
+	button.print > box { background: image(files/assets/buttons/print.png); width:30; height:32; }
+	button.toc > box { background: image(files/assets/buttons/toc.png); width:30; height:32; }
+	button.share > box { background: image(files/assets/buttons/share.png); width:30; height:32; }
+	button.search > box { background: image(files/assets/buttons/search.png); width:30; height:32; }
+	button.download > box { background: image(files/assets/buttons/download.png); width:30; height:32; }
+	button.about > box { background: image(files/assets/buttons/info.png); width:30; height:32; }
+	button.exit > box { background: image(files/assets/buttons/exit.png); width:30; height:32; }
+	box.line {background: image(files/assets/skin/line.png); width:2; height:32}
+
+	button.draw > box { background: image(files/assets/buttons/brush.png); width:30; height:32; }
+	button.draw > box.over { background: image(files/assets/buttons/brush_hot.png); width:30; height:32; }
+	button.draw > box.down { background: image(files/assets/buttons/brush_down.png); width:30; height:32; }
+	
+	togglebutton.slideshow > button { title: localize(LNG_PLAY, Play); width:30; height:32; }
+	togglebutton.slideshow > button > box { background: image(files/assets/buttons/play.png); width:30; height:32;  }
+	togglebutton.slideshow > button.toggled > box { background: image(files/assets/buttons/pause.png); width:30; height:32;  }
+	togglebutton.slideshow > button.toggled { title: localize(LNG_SLIDESHOW_STOP, Stop slideshow); width:30; height:32; }	
+	
+	togglebutton.textselect > button > box { background: image(files/assets/buttons/textselect.png); width:30; height:32; }
+	togglebutton.textselect > button.toggled > box { background: image(files/assets/buttons/textselect_down.png); width:30; height:32; }
+	
+	
+	togglebutton.page > button > box {
+		background: image(files/gui/navigationbar/btn_page_small.png);
+		x: 0;
+		y: 0;
+		width: 16;
+		height: 24;
+	}
+	togglebutton.page > button > box.over { background: image(files/gui/navigationbar/btn_page_big.png); }
+	togglebutton.page > button > box.down {
+		background: image(files/gui/navigationbar/btn_page_big.png);
+		x: 1;
+		y: 1;
+	}
+	togglebutton.page > button.toggled > box {
+		background: image(files/gui/navigationbar/btn_page_big.png);
+		x: 0;
+		y: 0;
+		filter: none;
+	}
+	togglebutton.page {
+		width: 16;
+	}
+	togglebutton.mute > button {
+		title: localize(LNG_MUTE, Mute)
+	}
+	togglebutton.mute > button.toggled {
+		title: localize(LNG_UNMUTE, Unmute)
+	}
+	togglebutton.fullscreen > button {
+		title: localize(LNG_FULLSCREEN, Activate fullscreen mode)
+	}
+	togglebutton.fullscreen > button.toggled {
+		title: localize(LNG_RESTORE, Exit fullscreen mode)
+	}
+
+	
+	text.big {
+		anchors: 0,0,pw,ph;
+		filter: dropshadow(2,45,0x000000,1,3,3,0.5,2);
+		size: 15;
+		align: center;
+		color: 0xFFFFFF;
+		font: Verdana;
+		bold: true;
+	}
+	/* Language chooser entry style */
+	button.flag {
+		height: 26;
+		width: 26;
+	}
+	button.flag box {
+		width: 24;
+		height: 24;
+		x: 1;
+		y: 1;
+	}
+	button.flag > box.over, button.flag > box.down {
+		filter: glow(0xFFFFFF,1,3,3,2,2,true);
+	}
+	button.flag > box.down {
+		x: 2;
+		y: 2;
+	}
+	
+	box.bottombar {
+		background: image(files/assets/skin/bar_bottom.png);
+		scale9grid:15,20,1357,21
+	}
+	
+	box.topbar {
+		background: image(files/assets/skin/bar_top.png);
+		scale9grid:20,20,21,21
+	}
+	
+	]]>
+	</style>
+	
+	<script>
+	<![CDATA[
+	import de.mightypirates.asul.events.ToggleButtonEvent;
+	import de.mightypirates.megazine.events.MuteEvent;
+	import de.mightypirates.megazine.events.PageEvent;
+	import de.mightypirates.megazine.events.PageChangeEvent;
+	import de.mightypirates.megazine.plugins.slideshow.SlideshowEvent;
+	import de.mightypirates.megazine.events.ZoomChangeEvent;
+	import flash.display.StageDisplayState;
+	import flash.events.Event;
+	import flash.events.FullScreenEvent;
+	
+	
+	// Input box, hide in fullscreen mode (because we can't input data anyway).
+	var gotobox;
+	function gotoadded(box) {
+		gotobox = box;
+	}
+	
+	//Functionality for the zoom slider
+	var zoomslider;
+	var zoomtxt;
+	var zoomupdatingbar = 0;
+	var zoomtofit;
+	// Added to stage, link up events.
+	function zoomslideradded(slider) {
+		zoomslider = slider;
+		addListener(zoomslider, Event.CHANGE, zoomsliderchanged);
+		addListener(megazine, ZoomChangeEvent.ZOOM_CHANGE, zoomchange);
+		//printf('initialzoom='+megazine.zoom+' zoomminscale='+megazine.settings.getSetting("zoomminscale"));
+	}
+	// Removed, clean up.
+	function zoomsliderremoved() {
+		removeListener(zoomslider, Event.CHANGE, zoomsliderchanged);
+		removeListener(megazine, ZoomChangeEvent.ZOOM_CHANGE, zoomchange);
+	}
+	// zoomslider was moved by user
+	function zoomsliderchanged() {
+		if(!zoomupdatingbar) {
+			//printf(zoomupdatingbar + ' zoomsliderchanged to '+zoomslider.value);
+			zm = megazine.settings.getSetting("zoomminscale");
+			megazine.zoom = zoomslider.value * (megazine.settings.getSetting("zoommaxscale") - zm) + zm;
+		} else {
+			//printf(zoomupdatingbar + ' zoomsliderchanged SKIPPED');
+		}
+	}
+	// zoom level was changed by another method, move the slider bar but don't let slider bar adjust the zoom twice
+	function zoomchange() {
+		zoomupdatingbar = 1;
+		zm = megazine.settings.getSetting("zoomminscale");
+		newvalue = (megazine.zoom - zm) / (megazine.settings.getSetting("zoommaxscale") - zm);
+		//printf('zoomchange megazine.zoom=' + megazine.zoom + ' slider was='+zoomslider.value+' now='+newvalue + ' liquid='+ megazine.settings.getSetting("zoomliquidscaling"));
+		zoomslider.value = newvalue;
+		zoomupdatingbar = 0;
+	}
+	
+
+	//Functionality for the slideshow button
+	var slideshowbutton;
+	var ssplugin;
+	function slideshowadded(btn){
+		slidehosbutton = btn;
+		ssplugin = megazine.pluginManager.getPlugin("slideshow");
+		
+		addListener(ssplugin, SlideshowEvent.SLIDE_STOP, slidestopnotified);
+		addListener(ssplugin, SlideshowEvent.SLIDE_START, slidestartnotified);
+	}
+	function slideshowremoved(){
+		removeListener(ssplugin, SlideshowEvent.SLIDE_STOP, slidestopnotified);
+		removeListener(ssplugin, SlideshowEvent.SLIDE_START, slidestartnotified);
+	}
+	function slidestopnotified(){
+		slidehosbutton.isToggled = false;
+	}
+	function slidestartnotified(){
+		slidehosbutton.isToggled = true;
+	}
+	
+	// Functionality for the fullscreen button.
+	var fullscreenbutton;
+	function inFullscreen() {
+		return fullscreenbutton.stage.displayState != StageDisplayState.NORMAL;
+	}
+	// When added to stage, add listeners to update button state or
+	// react to button toggles.
+	function fullscreenadded(btn) {
+		fullscreenbutton = btn;
+		fullscreenbutton.isToggled = inFullscreen();
+		addListener(fullscreenbutton, ToggleButtonEvent.TOGGLED, fullscreentoggled);
+		addListener(fullscreenbutton.stage, FullScreenEvent.FULL_SCREEN, fullscreenchanged);
+	}
+	// Clean up when removed, to avoid memory leaks.
+	function fullscreenremoved() {
+		removeListener(fullscreenbutton, ToggleButtonEvent.TOGGLED, fullscreentoggled);
+		removeListener(fullscreenbutton.stage, FullScreenEvent.FULL_SCREEN, fullscreenchanged);
+	}
+	// Button was toggled, update fullscreen state.
+	function fullscreentoggled() {
+		fullscreenbutton.stage.displayState = fullscreenbutton.isToggled ? StageDisplayState.FULL_SCREEN : StageDisplayState.NORMAL;
+		fullscreenbutton.isToggled = inFullscreen();
+	}
+	// Fullscreen state changed, update button toggle state.
+	function fullscreenchanged() {
+		fullscreenbutton.isToggled = inFullscreen();
+	}
+	
+	// Page navigation slider functionality.
+	var pageslider;
+	// Added to stage, link up events.
+	function pageslideradded(slider) {
+		pageslider = slider;
+		pageslider.maximum = megazine.pageCount / 2;
+		pageslider.value = megazine.currentPage / 2;
+		addListener(pageslider, Event.CHANGE, pagesliderchanged);
+		addListener(megazine, PageChangeEvent.PAGE_CHANGE_DELAYED, pagechanged);
+		addListener(megazine, PageEvent.ADDED, pagecountchanged);
+		addListener(megazine, PageEvent.REMOVED, pagecountchanged);
+	}
+	// Removed, clean up.
+	function pagesliderremoved() {
+		removeListener(pageslider, Event.CHANGE, pagesliderchanged);
+		removeListener(megazine, PageChangeEvent.PAGE_CHANGE_DELAYED, pagechanged);
+	}
+	// Update slider max on page count change.
+	function pagecountchanged() {
+		pageslider.maximum = megazine.pageCount / 2;
+	}
+	// Slider was moved, navigate to page.
+	function pagesliderchanged() {
+		megazine.gotoPage(pageslider.intValue * 2);
+	}
+	// Page changed, update slider.
+	function pagechanged() {
+		pageslider.intValue = megazine.currentPage / 2;
+	}
+	var prevText;
+	function handleTextFocus(textField) {
+		prevText = textField.text;
+		textField.text = "";
+	}
+	function handleTextUnfocus(textField) {
+		if (!textField.text && prevText) {
+			textField.text = prevText;
+		}
+	}
+	
+
+	]]>
+	</script>
+	
+	<!-- Description of the navigation bar -->
+	<box id="navigationframe" anchors="0,0,pw,ph">
+		<buttons anchors="(pw-w)/2, ph-h-8" width="769" height="71" background="image(files/assets/buttons/bookmarks.swf)" />	
+		<buttons anchors="pw-w-50, 10" width="237" height="100" background="image(files/assets/buttons/players.swf)" />	
+		<buttons anchors="pw/2-w, 20" width="167" height="61" background="image(files/assets/buttons/gotopage.swf)" />	
+	</box>
+	
+	<!--
+		A page button, i.e. a button used to link to a page in the book. Added to
+		the $page_buttons$ element of the navigation bar. Must be a togglebutton.
+	-->
+	<togglebutton id="btn_page" style="page"/>
+	
+	<!--
+		Template for flag icons added to the langchooser. This is expected to 
+		be a button. All children will be assigned the flag image of the language
+		the button is created for.
+	-->
+	<button id="btn_flag" style="flag">
+		<!-- Needs to have explicit states to assign flag as background when created -->
+		<box name="$up$"/>
+		<box name="$over$" style="over"/>
+		<box name="$down$" style="down"/>
+	</button>
+	
+
+	<box id="language" clipchildren="false" width="32" height="32">
+		<vflow name="langchooser" collapse_height="26" collapse_width="26" maxheight="52" anchors="4,(ph-24)/2"/>
+	</box>
+
+</asul>
