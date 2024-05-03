@@ -3,7 +3,5 @@
   <background enable="false"/>
   <flipping enable="false" url=""/>
   <click enable="false" url=""/>
-  <pages>
-    <sound pageNumber="1" repeat="false" controlBar="false" url="content/audios/Snd_0_1_1.mp3"/>
-  </pages>
+  <pages/>
 </sounds>
