@@ -67,9 +67,9 @@
 		input: true;
 		color: #31374B;
 		font: Verdana;
-		bold: false;
+		bold: true;
 		size: 12;
-		filter: dropshadow(1,45,0x000000,1,3,3,0.5,2);
+		filter: dropshadow(2,45,0x000000,1,3,3,0.5,2);
 	}
 	/* Common progress bar style */
 	progressbar.common {
@@ -108,9 +108,9 @@
 	button.btn_up > box.over { background: image(files/assets/skin/btnup_hot.png); width:24; height:14; anchors:(pw-w)/2,(ph-h)/2;}
 	
 	button.btn_down > box {background: image(files/assets/skin/btndown_up.png); width:24; height:14; anchors:(pw-w)/2,(ph-h)/2;}
-	button.btn_down > box.down { background: image(files/assets/ski/btndown_down.png); width:24; height:14; anchors:(pw-w)/2,(ph-h)/2;}
+	button.btn_down > box.down { background: image(files/assets/skin/btndown_down.png); width:24; height:14; anchors:(pw-w)/2,(ph-h)/2;}
 	button.btn_down > box.over { background: image(files/assets/skin/btndown_hot.png); width:24; height:14; anchors:(pw-w)/2,(ph-h)/2;}
-
+		
 	button.btn_close > box {background: image(files/assets/skin/window/close_up.png); width:24; height:24;}
 	button.btn_close > box.down { background: image(files/assets/skin/window/close_down.png); width:24; height:24;}
 	button.btn_close > box.over { background: image(files/assets/skin/window/close_hot.png); width:24; height:24;}
@@ -192,9 +192,9 @@
 		mousemode, which is why it has a name. Make sure to adjust the options gui
 		accordingly when changing this, so as to not confuse users.
 	-->
-	<scrollpane id="pagecontainer" anchors="50,70,pw-50,ph-75" minwidth="0"
-		name="page_scrollpane" mousemode="mouse_move" clipchildren="true">
-		<box  anchors="15,15,pw-15,ph-15" clipchildren="false">
+	<scrollpane id="pagecontainer" anchors="60,78,pw-60,ph-88" minwidth="280"
+		name="page_scrollpane" mousemode="mouse_move" clipchildren="false">
+		<box  anchors="0,0,pw,ph" clipchildren="false">
 			<box name="$viewport$" width="pagew*2" height="pageh" clipchildren="false"/>
 		</box>
 		<button onclick="megazine.gotoPreviousPage()" anchors="5,(ph-h)/2" style="previous_big" width="34" height="35"/>
@@ -202,10 +202,6 @@
 		<button onclick="megazine.gotoFirstPage()" anchors="5,(ph-h)/2+50" style="firstpage_big" width="20" height="20"/>
 		<button onclick="megazine.gotoLastPage()" anchors="pw-30,(ph-h)/2+50" style="lastpage_big" width="20" height="20"/>
 	</scrollpane>
-	
-	<!-- megazine background --> 
-	<box id="innerbackground"  anchors="50,70,pw-50,ph-75"  minwidth="350" style="common innerbackground" backgroundrepeat="false"/>
-
 
 	<scrollpane id="zoomcontainer" anchors="50,70,pw-50,ph-75" minwidth="350" mousemode="mouse_drag" clipchildren="true">
 		<box name="$viewport$" clipchildren="true" />

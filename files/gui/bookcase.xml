@@ -8,26 +8,21 @@
 	]]>
 	</style>
 	
-	<box id="container" anchors="50, 30, 200, ph-75">
-		<box anchors="0,40,pw,ph" background="image(files/assets/skin/bg-left.png)"/>
-		
-		<box id="top" anchors="4,0,pw-4,40" style="common innertop">
-			<box anchors="5,6" width="24" height="25" background="image(files/assets/skin/window/bookcase.png)" />
-			<text name="title" anchors="35,9" value="localize(LNG_BOOKCASE_TITLE, Bookcase)" style="title" />
-			<button onclick="megazine.go_bookcase()" anchors="120, (ph-h)/2" name="$scroll_handle$" width="24" height="24" style="btn_close"/>
-		</box> 		
-		
-		<!-- change this anchors if using other layout -->
-		<box name="contents" anchors="10,44,pw-9,ph-13" background="color(0xDF212735)"> 
-			<button name="btn_up" anchors="0,0,pw" height="26" style="btn_up" background="color(0xB2BCC4DE)"/>
-			<scrollpane name="scrollpane" anchors="0,26,pw,ph-26" mousewheel="y" align="top">
-				<box maxwidth="pw" name="$viewport$" resize="true">
-					<hflow maxwidth="pmaxw" name="elements"/>
-				</box>
-			</scrollpane>
-			<button name="btn_down" anchors="0,ph-26,pw" height="26" style="btn_down" background="color(0xB2BCC4DE)"/>
+	<window id="container" anchors="70, 50" width="150" height="350">
+		<box name="$drag_handle$" anchors="1,20,pw-12,ph-12" background="image(files/assets/skin/window/winbg2.png)" scale9grid="14,14,15,15" mouseenabled="true">
+			<!-- change this anchors if using other layout -->
+			<box name="contents" anchors="10,10,pw-9,ph-13" background="color(0x7F333333)"> 
+				<button name="btn_up" anchors="0,0,pw" height="26" style="btn_up" background="color(0xB2BCC4DE)"/>
+				<scrollpane name="scrollpane" anchors="0,26,pw,ph-26" mousewheel="y" align="top">
+					<box maxwidth="pw" name="$viewport$" resize="true">
+						<hflow maxwidth="pmaxw" name="elements"/>
+					</box>
+				</scrollpane>
+				<button name="btn_down" anchors="0,ph-26,pw" height="26" style="btn_down" background="color(0xB2BCC4DE)"/>
+			</box>
 		</box>
-	</box>	
+		<button name="$btn_close$" anchors="pw-w,h/2" title="localize(LNG_SEARCH_RESULTS_CLOSE, Close)" width="24" height="24" background="image(files/assets/skin/close2.png)"/>
+	</window>	
 	
 	<button width="120" height="150" id="content">
 		<box name="$up$" anchors="10,10,pw-10,ph-10" background="color(0x5AB8BFDB)"/>	
