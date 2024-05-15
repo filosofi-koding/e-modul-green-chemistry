@@ -35,4 +35,8 @@
   <page id="33" shadow="true" source="content/pages/page33.jpg" medium="content/medium/page33.jpg" thumb="content/thumbs/page33.jpg"/>
   <page id="34" shadow="true" source="content/pages/page34.jpg" medium="content/medium/page34.jpg" thumb="content/thumbs/page34.jpg"/>
   <page id="35" shadow="true" source="content/pages/page35.jpg" medium="content/medium/page35.jpg" thumb="content/thumbs/page35.jpg"/>
+  <page id="36" shadow="true" source="content/pages/page36.jpg" medium="content/medium/page36.jpg" thumb="content/thumbs/page36.jpg"/>
+  <page id="37" shadow="true" source="content/pages/page37.jpg" medium="content/medium/page37.jpg" thumb="content/thumbs/page37.jpg"/>
+  <page id="38" shadow="true" source="content/pages/page38.jpg" medium="content/medium/page38.jpg" thumb="content/thumbs/page38.jpg"/>
+  <page id="39" shadow="true" source="content/pages/page39.jpg" medium="content/medium/page39.jpg" thumb="content/thumbs/page39.jpg"/>
 </pages>
