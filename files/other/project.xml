@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<flipbookmaker version="4.2.2" IsQuick="false" QuickFile="" ProjectName="" DefaultName="MODUL AJAR ee marlisa revisi" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="0" IsHardPage="0" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.3" PageThick="0.1" SpineColor="13421772" Curvature="-0.5" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="bookcase" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="true" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="" ShowText="true" ShowSlider="false" ShowShare="true" ShowPrint="true" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="true" ShowBookCase="true" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="true" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="theme" TemplateName="tree" ExeTitle="" HtmlTitle="" HtmlKeywords="" HtmlDescription="" HtmlScript="" PageWidth="1131" PageHeight="1600" CoverWidth="1131" CoverHeight="1600" Langs="en" LangHints="English" BookLangs="en,jp,fr,de,ar">
+<flipbookmaker version="4.2.2" IsQuick="false" QuickFile="" ProjectName="" DefaultName="e modul revisi pak nofri" SearchOrder="ltr" Google="" UseMiniMode="true" UsePSW="false" MiniWidth="400" MiniHeight="300" PSW="" StartPage="0" UseFlipSound="true" UseBackSound="false" UseSingleSound="false" BackSoundPath="" IsRight2Left="false" IsFastene="false" IsHardCover="0" IsHardPage="0" IsAnimate="true" IsCenterBook="true" IsLandScape="0" IsOpenBook="1" DragArea="top,middle,bottom" FlipSpeed="0.3" PageThick="0.1" SpineColor="13421772" Curvature="-0.5" PageBackColor="13421772" PageTranColor="0" FoldLine="0.5" ZoomStep="0.25, 0.5, 1, 2, 4, 8" UseReflection="false" RefTransparent="75" RefOffset="0" IsAutoPlay="false" IsRepeat="false" DurationPlay="3" Preloader="bookcase" LoadText="" PowerBy="" NavigationStyle="" ButtonStyle="" ShowCover="true" ShowPreNext="true" ShowPlayStop="true" ShowScreen="true" ShowToc="true" ShowZoom="true" ShowBookmark="true" ShowDownload="true" DownloadUrl="" ShowText="true" ShowSlider="false" ShowShare="true" ShowPrint="true" ShowZoomBar="true" ShowSearch="true" ShowSearchBox="true" ShowMusic="true" ShowThumbnail="true" ShowExit="true" ShowBookCase="true" ButtonScale="0" IntroMovie="" IntroEffect="" Scene="" ShowAbout="true" ShowDraw="true" ShowLang="true" UseGradient="true" Edge="1" EdgeColor="13421772" TemplateGroup="theme" TemplateName="tree" ExeTitle="" HtmlTitle="" HtmlKeywords="" HtmlDescription="" HtmlScript="" PageWidth="1131" PageHeight="1600" CoverWidth="1131" CoverHeight="1600" Langs="en" LangHints="English" BookLangs="en,jp,fr,de,ar">
   <book title="kvisoft.com" plugins="navigationbar, keyboardnavigation, links, password, pdflinks, anchors, index, titles, search, gestures, draw, tuio, slideshow,javascript,swfaddress,print,thumbnails,bookmarks,select,musicplayers, toc, share, about, bookcase" pagewidth="1131" pageheight="1600" searchindex="files/search_index/en.txt" stiffskew="1" foldfx="0.5" guipath="files/gui/" asulextension="xml" lang="en,jp,fr,de,ar" langpath="files/langs/" flagpath="files/flags/" pagethickness="0.1" pluginpath="files/plugins/" priorities="vid(20); snd(15); area(5); nav(5); txt(5); gal(30)" reflectionalpha="0.25" shadows="0.25" sndpath="files/snd/" dragspeed="0.3" password="" pwstart="0" spinecurvature="-0.5" thumbloadtext="Loading" zoommaxscale="2" zoomminscale="0.1" zoomsnap="0.25, 0.5, 1, 2, 4, 8" zoomstep="" slidestart="false" slidedelay="3" sliderepeat="false" toc="files/data/toc.xml" bookcase="files/data/bookcase.xml" download="" minimode="true" miniwidth="400" miniheight="300" layout="files/data/layout.xml" buttoncfg="files/data/buttoncfg.xml" about="files/data/about.xml" abc="chdb">
     <background>
       <box name="" anchors="0,0,ph,pw"/>
@@ -16,8 +16,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_1_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_1_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_1_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_1_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
         </img>
       </page>
       <page stiffskew="1" shadows="0.25" foldfx="0.5">
@@ -30,514 +30,8 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_2_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_2_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-    </chapter>
-    <chapter pagewidth="1131" pageheight="1600">
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_3_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_3_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_4_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_4_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_5_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_5_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_6_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_6_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_7_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_7_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_8_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_8_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_9_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_9_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_10_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_10_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_11_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_11_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_12_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_12_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_13_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_13_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_14_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_14_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_15_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_15_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_16_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_16_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_17_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_17_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_18_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_18_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_19_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_19_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_20_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_20_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_21_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_21_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_22_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_22_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_23_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_23_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_24_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_24_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_25_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_25_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_26_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_26_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_27_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_27_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_28_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_28_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_29_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_29_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_30_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_30_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_31_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_31_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_32_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_32_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_33_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_33_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_34_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_34_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_35_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_35_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_36_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_36_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_37_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_37_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-        </img>
-      </page>
-      <page stiffskew="1" shadows="0.25" foldfx="0.5">
-        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
-          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
-            <wincontents>
-              <![CDATA[]]>
-            </wincontents>
-          </action>
-          <effmenter Param1="" Param2=""/>
-          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_38_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_38_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_2_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_2_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
         </img>
       </page>
     </chapter>
@@ -552,8 +46,514 @@
           <effmenter Param1="" Param2=""/>
           <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
           <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
-          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\high\MODUL AJAR ee marlisa revisi_39_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
-          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{A61959C8-8FBA-470C-972F-238378EAD900}\files\pages\en\low\MODUL AJAR ee marlisa revisi_39_{19597BB9-8E62-41BB-A7FD-4294E19D0B02}_en.swf</src>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_3_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_3_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_4_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_4_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_5_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_5_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_6_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_6_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_7_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_7_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_8_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_8_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_9_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_9_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_10_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_10_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_11_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_11_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_12_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_12_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_13_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_13_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_14_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_14_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_15_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_15_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_16_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_16_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_17_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_17_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_18_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_18_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_19_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_19_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_20_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_20_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_21_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_21_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_22_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_22_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_23_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_23_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_24_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_24_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_25_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_25_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_26_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_26_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_27_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_27_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_28_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_28_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_29_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_29_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_30_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_30_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_31_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_31_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_32_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_32_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_33_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_33_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_34_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_34_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_35_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_35_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_36_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_36_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_37_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_37_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_38_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_38_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+        </img>
+      </page>
+    </chapter>
+    <chapter pagewidth="1131" pageheight="1600">
+      <page stiffskew="1" shadows="0.25" foldfx="0.5">
+        <img width="1132" height="1600" position="center middle" alpha="1" rotation="0" caption="" event="0" mask="" filetype="1" id="" ytparam="autoplay=0&amp;loop=0">
+          <action actionid="0" gui="" widthpop="400" heightpop="300" galxml="">
+            <wincontents>
+              <![CDATA[]]>
+            </wincontents>
+          </action>
+          <effmenter Param1="" Param2=""/>
+          <effenter value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <effleave value="" funname="" delay="0" loop="0" rollback="false" loopdelay="0" speed="0" stagger="0"/>
+          <src lang="en" scale="1.1">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\high\e modul revisi pak nofri_39_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
+          <src lang="en">C:\Users\USER\AppData\Local\Temp\flipbook_{546F1FCA-40EC-48AE-8DF8-C4B040D15C07}\files\pages\en\low\e modul revisi pak nofri_39_{E1488E2A-CD18-45C8-843C-62ED25473F36}_en.swf</src>
         </img>
       </page>
     </chapter>
